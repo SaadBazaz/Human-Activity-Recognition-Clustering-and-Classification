@@ -42,6 +42,9 @@ I evaluated the results using Pandas built in crosstab function. I used this fun
 I used these values to evaluate precision, recall and F1 score.
 I achieved good results:
 
+![Metrics](./screenshots/metrics.png)
+
+
 ### 3.2 K Means
 For K Means, I loaded the files in the “Inertial Signals” directory, which contained raw sensor data in 3 Dimensions. 
 
@@ -66,7 +69,7 @@ The expected results were that the number of clusters, k, should be equal to the
 Since K Means is unsupervised, if the optimum value of k was equal to the number of classes then the clustering was successful.
 The results of my tests showed success:
 
-
+![DB Index](./screenshots/db_index.png)
 
 
 
